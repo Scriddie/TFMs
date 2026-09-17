@@ -1,3 +1,8 @@
+# uv
+.venv/
+__pycache__/
+
+# tex files
 *.aux
 *.bbl
 *.bbf
