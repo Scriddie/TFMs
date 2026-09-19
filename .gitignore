@@ -1,3 +1,6 @@
+# experiments
+src/results
+
 # uv
 .venv/
 __pycache__/
